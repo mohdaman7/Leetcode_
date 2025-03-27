@@ -18,3 +18,4 @@ var dominantIndex = function(nums) {
 console.log(dominantIndex(nums))
 
 
+
