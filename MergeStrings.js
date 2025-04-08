@@ -43,3 +43,4 @@ var mergeAlternately = function(word1, word2) {
     return res
 };
 console.log(mergeAlternately(word1,word2));
+
