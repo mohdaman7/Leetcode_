@@ -13,3 +13,4 @@ var average = function(salary) {
     return sum/len
 };
 console.log(average(salary))
+
