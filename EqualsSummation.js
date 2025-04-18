@@ -18,3 +18,4 @@ var isSumEqual = function(firstWord, secondWord, targetWord) {
     return parseInt(first)+parseInt(second)==parseInt(target)
 };
 console.log(isSumEqual(firstWord,secondWord,targetWord))
+
