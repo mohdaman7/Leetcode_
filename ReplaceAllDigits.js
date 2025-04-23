@@ -16,3 +16,5 @@ var replaceDigits = function(s) {
     return res
 };
 console.log(replaceDigits(s))
+
+
