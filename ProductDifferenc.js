@@ -22,3 +22,5 @@ var maxProductDifference = function(nums) {
     return sum
 };
 console.log(maxProductDifference(nums))
+
+
