@@ -41,3 +41,4 @@ var maximumValue = function(strs) {
     return Math.max(...arr)
 };
 console.log(maximumValue(strs))
+
